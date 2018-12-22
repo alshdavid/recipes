@@ -1,8 +1,8 @@
 # James Brownie
 
-## Ingredeients
+## Ingredients
 
-| Ingredeient       | Quantity |
+| Ingredient        | Quantity |
 | ----------------- | -------- |
 | Sugar             | 2 Cups   |
 | Flour             | 1 Cup    |
