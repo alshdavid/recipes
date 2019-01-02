@@ -9,10 +9,6 @@
 | Onion             | 1                           |
 | Red Lentils (dry) | 1 cup (160g)                |
 | Water             | 2 cups (500ml)              |
-| Butter            | 200g                        |
-| Vanilla           | 2tsb+                       |
-| Eggs              | 4                           |
-
 
 ## Method
 
