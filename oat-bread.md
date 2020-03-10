@@ -2,17 +2,19 @@
 
 ## Ingredients
 
-| Ingredient         | Quantity |
-| ------------------ | -------- |
+| Ingredient         | Quantity       |
+| ------------------ | -------------- |
 | Yeast              | 2 Tea Spoons   |
-| Flour              | 1 1/2 Cup    |
-| Oats               | 1 Cup  |
-| Water              | 1 1/2 Cup  |
-| Oil                | 2 Table Spoon     |
-| Salt               | 2 Tea Spoon    |
-| Sugar              | 1 Tea Spoon       |
-
+| Flour              | 2 1/2 Cup      |
+| Oats               | 1 Cup          |
+| Water              | 1 1/2 Cup      |
+| Oil                | 2 Table Spoon  |
+| Salt               | 1 Tea Spoon    |
+| Sugar              | 2 Table Spoon  |
 
 ## Method
 
-Soak oats in hot water for using 1 of the 1 1/2 cups of water included in the recipie
+Total water to use is 1 1/2 but you use 1 cup of that water (hot) to soak the oats.
+Soak oats for 10 minutes.
+
+Not neccecery if oats are blended.
