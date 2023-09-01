@@ -48,3 +48,32 @@
 5. Every 10 minutes rotate the tray
 6. Should be ready in 15-30 minutes depending on oven
    1. Remove once muffins no longer jiggle when you shake the tray
+  
+# Macros
+
+||qty|calories|protien|
+|-|-|-|-|
+|flour|90g|328|9|
+|protein|95g|341|73|
+|yoghurt|350g|259|21|
+|erythrol|120g|36|0|
+|oil|15g|129|0|
+|vanilla|10ml|0|0|
+|gum|1.5g|0|0|
+|mollasis|15g|43|0|
+|eggs|3 whole|2|0|
+|||1138|103|
+
+If portioned into 12 muffins, this will results in muffins with
+
+|Calories|Protein|
+|-|-|
+|95|9|
+
+Optionally (TODO)
+
+||qty|calories|protien|
+|-|-|-|-|
+|blueberries|125g|0|0|	
+|chololate|50g|0|0|
+	
